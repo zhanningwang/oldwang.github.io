@@ -10,3 +10,10 @@
 .research-interest li {
     margin-bottom: 15px;
 }
+
+.pic1 {
+    height: 262px;
+    width: 242px;
+    float: right;
+    margin-right: 100px;
+}
